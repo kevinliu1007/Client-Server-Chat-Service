@@ -1,10 +1,5 @@
 # Multi-thread Online Chat Service
 
-### Author
-  - Kevin Liu - aliu35
-  - Pierce Zajac - pzajac2
-  - Chris Janowski - cjanow3
-
 Multi-threaded online chat service for CS 342 Project 5. Application uses RSA encryption/decryption for message security. Chat service allow users to enter chat room with self assigned username to chat with all members in the chat room. Message updates in real time. Application written in Java.
 
 ### How to use chat service
@@ -33,6 +28,6 @@ Also, you are able to glock the `menu` on the menu bar and then click `Client Li
 
 ### RSA Encryption
 
-This application used RSA encryption/decryption for message security. Details on implementation see CS 342 [Project 5 Description][cs342]. For this program, we used random prime number generator for picking prime number for RSA instead of picking from 20 set prime numbers.
+This application used RSA encryption/decryption for message security. Details on implementation see CS 342 [Project 5 Description][cs342]. For this program, I used random prime number generator for picking prime number for RSA instead of picking from 20 set prime numbers.
 
 [cs342]: <https://www.cs.uic.edu/pub/CS342/AssignmentsF17/CS_342_proj5_f17.pdf>
