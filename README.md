@@ -1,6 +1,6 @@
 # Multi-thread Online Chat Service
 
-Multi-threaded online chat service for CS 342 Project 5. Application uses RSA encryption/decryption for message security. Chat service allow users to enter chat room with self assigned username to chat with all members in the chat room. Message updates in real time. Application written in Java.
+Multi-threaded online chat service. Application uses RSA encryption/decryption for message security. Chat service allow users to enter chat room with self assigned username to chat with all members in the chat room. Message updates in real time. Application written in Java.
 
 ### How to use chat service
 
